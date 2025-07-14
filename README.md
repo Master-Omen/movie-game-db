@@ -1,3 +1,7 @@
+
+# 
+This site provides various information such as games, videos and series. this website using php, framework codeigniter, bootstrap and mySql 
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
